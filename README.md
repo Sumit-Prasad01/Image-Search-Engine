@@ -1,1 +1,1 @@
-# Image-Search-Engine
+# Image-Search-Engine using Html, CSS and JavaScript
